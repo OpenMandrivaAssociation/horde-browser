@@ -56,3 +56,20 @@ fi
 %{peardir}/Horde/Browser.php
 %{peardir}/Horde/Browser/imode.php
 
+
+
+%changelog
+* Mon Jul 26 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-3mdv2011.0
++ Revision: 560468
+- Increased release for rebuild
+
+* Mon Feb 22 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-2mdv2010.1
++ Revision: 509359
+- removed Buildrequires: horde-framework
+
+* Tue Feb 16 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.2-1mdv2010.1
++ Revision: 506422
+- replced PreReq with Requires(pre)
+- import horde-browser
+
+
