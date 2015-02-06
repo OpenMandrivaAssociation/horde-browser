@@ -5,7 +5,7 @@
 
 Name:		horde-browser
 Version:	0.0.2
-Release:	%mkrel 3
+Release:	4
 Summary:	Horde Browser package
 License:	LGPL
 Group:		Networking/Mail
